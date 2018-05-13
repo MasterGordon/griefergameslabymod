@@ -1,0 +1,6 @@
+{
+  "uuid": "%uuid%",
+  "name": "(Inoffiziell) Griefergames.net Kontostandanzeige",
+  "mainClass": "me.mastergordon.commanddisplay.Main",
+  "version": 1
+}
