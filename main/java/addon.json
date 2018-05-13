@@ -2,5 +2,7 @@
   "uuid": "%uuid%",
   "name": "(Inoffiziell) Griefergames.net Kontostandanzeige",
   "mainClass": "me.mastergordon.commanddisplay.Main",
-  "version": 1
+  "version": 1,
+  "category": 3,
+  "icon": "http://link-to-icon.net/icon64x64.png"
 }
